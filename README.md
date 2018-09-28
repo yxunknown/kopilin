@@ -7,6 +7,6 @@ Kopilin是一个kotlin函数扩展库，利用kotlin语言的infix函数功能�
 
 ## datetime相关
 val oneDayAgo = A days ago  
-val oneDayLater = One Days later  
+val oneDayLater = One days later  
 val twoHoursAgo = Two hours ago  
 val threeWeekLater = Three weeks later
