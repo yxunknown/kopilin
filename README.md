@@ -11,7 +11,7 @@ val oneDayLater = One Days later
 val twoHoursAgo = Two hours ago  
 val threeWeekLater = Three weeks later
 
-## 字符串相关
-val s = "sdaw"
+## 字符串相关  
+val s = "sdaw"  
 val isEmpty = s be empty  
 val isBlank = s be blank
