@@ -5,8 +5,13 @@ Kopilin是一个kotlin函数扩展库，利用kotlin语言的infix函数功能�
 
 别人是人造革，我是真的皮。
 
-## datetime相关
+## 时间相关
 val oneDayAgo = A days ago  
 val oneDayLater = One Days later  
 val twoHoursAgo = Two hours ago  
 val threeWeekLater = Three weeks later
+
+## 字符串相关
+val s = "sdaw"
+val isEmpty = s be empty  
+val isBlank = s be blank
